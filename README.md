@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently Studying Software Engineer<br>🎯 Goals: Be Polyglot <br>🎲Fun fact: I'm better at social themes and learned all coding languages independently.</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently Studying Software Engineer.<br>🎯 Goals: Be Polyglot.<br>🎲Fun fact: I'm better at social themes and learned all coding languages independently.<br>✞ Christian Boy.</p>
 
 ###
 
@@ -54,6 +54,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://i.pinimg.com/736x/10/38/9f/10389f550e37ab3adb4cc1ee9f3f08d7.jpg"  />
+
+###
+
 <div align="left">
   <a href="https://open.spotify.com/user/dieguitorivaldito">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=dieguitorivaldito&count=7&unique=true" alt="Spotify recently played"  />
@@ -62,12 +68,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=daxl.rv" alt="Layout with last medium posts"  />
-</div>
+<img align="right" height="400" src="https://i.pinimg.com/736x/24/c2/92/24c2924c9104008912ed82d3377c08cf.jpg"  />
 
 ###
 
-<p align="left">Hello World!!</p>
+<img align="left" height="500" src="https://i.pinimg.com/736x/bf/36/7a/bf367a9cbe81b1e5ce702ad28153c47f.jpg"  />
 
 ###
