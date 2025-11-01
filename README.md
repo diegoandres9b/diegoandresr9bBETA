@@ -75,7 +75,7 @@ I speak English, a bit of French, Japanese, and Portuguese.</p>
 <h2>🌍 Let's Connect!</h2>
 
 
-📧 Email: diegosoftware@gmail.com
+📧 Email: diegoSEjunior@gmail.com
 
 ###
 
