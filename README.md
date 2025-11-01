@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Diego Rivaldo and I'm from Colombia, I love coding and languages. I know English, a little bit of French, Japanese, and Portuguese.</p>
+<p align="left">My name is Diego Rivaldo, I'm from Colombia 🇨🇴 and I’m passionate about coding and languages.
+I speak English, a bit of French, Japanese, and Portuguese.</p>
 
 ###
 
