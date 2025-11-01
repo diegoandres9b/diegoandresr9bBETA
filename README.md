@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently Studying Software Engineer.<br>🎯 Goals: Be Polyglot.<br>🎲Fun fact: I'm better at social themes and learned all coding languages independently.<br>✞ Christian Boy.</p>
+<p align="left">✨ Creating bugs since 2021.
+📚 Currently studying Software Engineering.
+🎯 Goal: Become a polyglot developer.
+🎲 Fun fact: I’m better at social themes and learned all my coding languages independently.✨ Creating bugs since 2021.<br>📚 I'm currently Studying Software Engineer.<br>🎯 Goals: Be Polyglot.<br>🎲Fun fact: I'm better at social themes and learned all coding languages independently.<br>✞ Christian Boy.</p>
 
 ###
 
