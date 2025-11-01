@@ -72,6 +72,11 @@ I speak English, a bit of French, Japanese, and Portuguese.</p>
 ###
 
 
+<h2>🌍 Let's Connect!</h2>
+
+
+📧 Email: tuemail@example.com
+
 ###
 
 
