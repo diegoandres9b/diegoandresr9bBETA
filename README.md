@@ -60,7 +60,6 @@ I speak English, a bit of French, Japanese, and Portuguese.</p>
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/10/38/9f/10389f550e37ab3adb4cc1ee9f3f08d7.jpg"  />
 
 ###
 
@@ -72,10 +71,8 @@ I speak English, a bit of French, Japanese, and Portuguese.</p>
 
 ###
 
-<img align="right" height="400" src="https://i.pinimg.com/736x/24/c2/92/24c2924c9104008912ed82d3377c08cf.jpg"  />
 
 ###
 
-<img align="left" height="500" src="https://i.pinimg.com/736x/bf/36/7a/bf367a9cbe81b1e5ce702ad28153c47f.jpg"  />
 
 ###
